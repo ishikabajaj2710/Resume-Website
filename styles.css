@@ -151,3 +151,31 @@ li {
   margin-bottom: 12px;
   line-height: 1.5;
 }
+
+.container {
+  max-width: 900px;
+  margin: auto;
+}
+
+.card {
+  width: 100%;
+  margin: 20px 0;
+}
+
+.header-content {
+  max-width: 900px;
+  margin: auto;
+}
+
+.profile-pic {
+  width: 140px;
+  height: 140px;
+}
+
+body {
+  background-color: #f4f4f4;
+}
+
+.card {
+  background: white;
+}
