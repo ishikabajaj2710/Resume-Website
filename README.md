@@ -1,2 +1,2 @@
 # Resume-Website
-My personal resume website
+Ishika Bajaj's personal resume website.
